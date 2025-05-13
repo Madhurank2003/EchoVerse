@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Speech Bubble -->
+  <path d="M6 8C6 5.79086 7.79086 4 10 4H22C24.2091 4 26 5.79086 26 8V18C26 20.2091 24.2091 22 22 22H16L10 28V22H10C7.79086 22 6 20.2091 6 18V8Z" fill="#6E44FF"/>
+  <!-- Pulse/Wave -->
+  <path d="M11 12H13V20H11V12ZM15 9H17V20H15V9ZM19 14H21V20H19V14Z" fill="#00F5FF"/>
+  <!-- Go Gopher Ear (Subtle) -->
+  <circle cx="24" cy="10" r="2" fill="#00ADD8"/>
+</svg>
